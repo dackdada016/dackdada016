@@ -1,6 +1,6 @@
 <h3> welcome to my page </h3>
 <!-- <h4>在前端工程師的路上持續前進</h2> -->
-  <div align="left">
+  <!-- <div align="left">
     <p>前端技術</p>
     <ul>
       <li>HTML</li>
@@ -26,7 +26,7 @@
       <li>illustrator</li>
       <li>figma</li>
     </ul>
-  </div>
+  </div> -->
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dackdada016&count_private=true&theme=codeSTACKr&include_all_commits=true&hide=issues" height="120" alt="stats graph"/>
