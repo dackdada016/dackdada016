@@ -22,3 +22,11 @@
     <li>figma</li>
   </ul>
 
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dackdada016&count_private=true&theme=codeSTACKr&include_all_commits=true&hide=issues" height="120" alt="stats graph"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dackdada016&layout=compact&theme=codeSTACKr" height="120"  alt="langs graph"/>
+</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
+</div>
+  ![](https://komarev.com/ghpvc/?username=dackdada016)
