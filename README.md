@@ -1,4 +1,4 @@
-<h3> welcome to my page </h3>
+<h3> Hi, I'm Esther is a Frontend engineer </h3>
 <img align="center" src="https://komarev.com/ghpvc/?username=dackdada016" alt="profile"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dackdada016&layout=compact&theme=codeSTACKr" height="120"  alt="langs graph"/>
 <div align="center">
